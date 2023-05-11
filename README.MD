@@ -16,11 +16,11 @@ que quiera trtar.
 * Grabar dicha clave en el fichero .env 
 
 * Este programa corre en python y necesita linstalar las siguientes librerías:
-** openai
-** flask
-** markdown2
-** dotenv
-** os
+        * openai
+        * flask
+        * markdown2
+        * dotenv
+        * os
 
 Ejecute main.py ( python main.py) 
 
