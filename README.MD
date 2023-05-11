@@ -29,7 +29,7 @@ que quiera trtar.
 
 
 Debe aparecerle la siguiente pantalla en el navegador:
-![image](https://user-images.githubusercontent.com/61508497/115834477-e0a5e000-a4e0-11eb-9e0e-ee0ee0ee0ee0.png)
+![Pantalla principal de miChatGPT](https://github.com/b2p5/miChatGPT/blob/master/static/images/PantallaChatAgramDAO.png)
 
 
 ### Funcionamiento
