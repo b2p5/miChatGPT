@@ -42,6 +42,6 @@ Los cuatro iconos que aparecen debajo de la línea de texto proporcionan funcion
 * Diagrama de bloques de AgramDAO
 * Vídeo sobre el funcionamiento deAgramDAO
 * Ir a la Web de AgramDAO
-* Descargar todas las consultas que ha realizado. 
+* Descargar todas las consultas que ha realizado.  
 
 
