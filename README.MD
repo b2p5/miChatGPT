@@ -15,7 +15,7 @@ que quiera trtar.
 * Consiga una API_KEY en la página de OpenAI: https://platform.openai.com/account/api-keys
 * Grabar dicha clave en el fichero .env 
 
-* Este programa corre en python y necesita linstalar las siguientes librerías:
+* Este programa corre en Python y necesita linstalar las siguientes librerías:
     * openai
     * flask
     * markdown2
@@ -29,6 +29,7 @@ que quiera trtar.
 
 
 Debe aparecerle la siguiente pantalla en el navegador:
+
 ![Pantalla principal de miChatGPT](https://github.com/b2p5/miChatGPT/blob/master/static/images/PantallaChatAgramDAO.png)
 
 
@@ -36,5 +37,11 @@ Debe aparecerle la siguiente pantalla en el navegador:
 
 Este Bot con cada pregunta, en primer lugar tratará de resolverla mediante el contexto que le damos en el fichero
 miContexto.txt, si no encuentra la respuesta dentro del mismo irá a buscar en ChatGPT.
+
+Los cuatro iconos que aparecen debajo de la línea de texto proporcionan funcionalidades particulares para AgramDAO:
+* Diagrama de bloques de AgramDAO
+* Vídeo sobre el funcionamiento deAgramDAO
+* Ir a la Web de AgramDAO
+* Descargar todas las consultas que ha realizado.
 
 
