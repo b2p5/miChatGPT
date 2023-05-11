@@ -22,9 +22,10 @@ que quiera trtar.
         * dotenv
         * os
 
-Ejecute main.py ( python main.py) 
+* Ejecute main.py ( python main.py) 
 
-Abrir la dirección de enlace que proporciona Flask
+* Abrir la dirección de enlace que proporciona Flask
+
 
 Debe aparecerle la siguiente pantalla en el navegador:
 ![image](https://user-images.githubusercontent.com/61508497/115834477-e0a5e000-a4e0-11eb-9e0e-ee0ee0ee0ee0.png)
