@@ -10,17 +10,17 @@ que quiera trtar.
 
 ### Instalación
 
-Descargue el programa
-Darse de alta en OpenAI
-Consiga una API_KEY en la página de OpenAI: https://platform.openai.com/account/api-keys
-Grabar dicha clave en el fichero .env 
+* Descargue el programa
+* Darse de alta en OpenAI
+* Consiga una API_KEY en la página de OpenAI: https://platform.openai.com/account/api-keys
+* Grabar dicha clave en el fichero .env 
 
-Este programa corre en python y necesita linstalar las siguientes librerías:
-* openai
-* flask
-* markdown2
-* dotenv
-* os
+* Este programa corre en python y necesita linstalar las siguientes librerías:
+** openai
+** flask
+** markdown2
+** dotenv
+** os
 
 Ejecute main.py ( python main.py) 
 
