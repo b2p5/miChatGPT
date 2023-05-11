@@ -3,7 +3,6 @@
 
 # Excluir el archivo "leeme.txt"
 leeme.txt
-.env
 .gitignore
 
 # Excluir todos los archivos con la extensión ".log"
