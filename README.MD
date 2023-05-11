@@ -34,4 +34,7 @@ Debe aparecerle la siguiente pantalla en el navegador:
 
 ### Funcionamiento
 
+Este Bot con cada pregunta, en primer lugar tratará de resolverla mediante el contexto que le damos en el fichero
+miContexto.txt, si no encuentra la respuesta dentro del mismo irá a buscar en ChatGPT.
+
 
