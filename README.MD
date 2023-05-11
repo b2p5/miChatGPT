@@ -22,7 +22,7 @@ que quiera trtar.
     * dotenv
     * os
 
-* Ejecute main.py ( python main.py) 
+* Ejecute main.py  <code> python main.py </code> 
 
 * Abrir la dirección de enlace que proporciona Flask
 
