@@ -1,0 +1,9 @@
+# Excluir la carpeta "archivos_privados"
+#archivos_privados/
+
+# Excluir el archivo "leeme.txt"
+leeme.txt
+.env
+
+# Excluir todos los archivos con la extensión ".log"
+#*.log
