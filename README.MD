@@ -31,17 +31,3 @@ Debe aparecerle la siguiente pantalla en el navegador:
 
 
 
-
-* Clase conex.js contiene una serie de métodos para extraer información de la cadena de bloques de blockchain.info
-
-* Clase heuristic.js contiene las reglas a aplicar para el estudio heurístico de las transaciones.
-
-* Clase generaExcel.js contiene los métodos para generak un Excel de las transaciones.
-
-* Clase bolas.js contiene los métodos para representar las transaciones.
-
-## Auxiliares
-
-* Clase divideCanvas.js crea divisiones por áreas en el canvas
-
-* Clase rellenaAreas.js rellena un área con objetos - bolas
