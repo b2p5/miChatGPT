@@ -3,6 +3,7 @@
 
 # Excluir el archivo "leeme.txt"
 leeme.txt
+flask_app_py
 .gitignore
 
 # Excluir todos los archivos con la extensión ".log"
