@@ -103,7 +103,7 @@ Enlace al video explicativo de AgramDAO.\
 [Ver el video de AgramDAO:](https://www.canva.com/design/DAFg6DXbMJc/wPAWPjxptgKjEzP6OeI-AA/watch?utm_content=DAFg6DXbMJc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)  \
 \
 \
-En resumen:\
+Resumen:\
   AgramDAOs es una plantilla para la generación de aplicaciones \
   descentralizadas, inmutables, verificables, trazables y gestionadas\
   por contratos inteligentes y la blockchain de Bitcoin (DAOs).
