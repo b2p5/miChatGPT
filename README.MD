@@ -37,13 +37,13 @@ Debe aparecerle la siguiente pantalla en el navegador:
 
 ### Funcionamiento
 
-    Este Bot, con cada pregunta, en primer lugar tratará de resolverla mediante el contexto que le damos en el fichero
-    **miContexto.txt**, si no encuentra la respuesta dentro del mismo irá a buscar en ChatGPT.
-    
-    Los cuatro iconos que aparecen debajo de la línea de texto proporcionan funcionalidades particulares para AgramDAO:
-    * Diagrama de bloques de AgramDAO
-    * Vídeo sobre el funcionamiento deAgramDAO
-    * Ir a la Web de Agram Project
-    * Descargar todas las consultas que se han realizado.   
+Este Bot, con cada pregunta, en primer lugar tratará de resolverla mediante el contexto que le damos en el fichero
+**miContexto.txt**, si no encuentra la respuesta dentro del mismo irá a buscar en ChatGPT.
+
+Los cuatro iconos que aparecen debajo de la línea de texto proporcionan funcionalidades particulares para AgramDAO:
+* Diagrama de bloques de AgramDAO
+* Vídeo sobre el funcionamiento deAgramDAO
+* Ir a la Web de Agram Project
+* Descargar todas las consultas que se han realizado.   
 
 
