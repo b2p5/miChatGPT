@@ -4,9 +4,9 @@
 
 ### Descripción
 
-Mediante este programapodrá generar un ChatBot que conteste a las preguntas sobre un tema particular. 
+Mediante este programapodrá generar un ChatBot que conteste a las preguntas sobre un tema en concreto. 
 Para conseguir esto es necesario que modifique el fichero miContexto.txt aportando información sobre el tema 
-que quiera trtar.
+que quiera tratar.
 
 ### Instalación
 
@@ -15,17 +15,18 @@ que quiera trtar.
 * Consiga una API_KEY en la página de OpenAI: https://platform.openai.com/account/api-keys
 * Grabar dicha clave en el fichero .env 
 
-* Este programa corre en Python y necesita linstalar las siguientes librerías:
+* Este programa corre en Python y necesita instalar las siguientes librerías:
     * openai
     * flask
-    * markdown2
+    * markdown
     * dotenv
     * os
 
 * Ejecute main.py  
+
 <code> python main.py </code> 
 
-* Abrir la dirección de enlace que proporciona Flask
+* Abrir la dirección de enlace que proporciona Flask (http://127.0.0.1/5...)
 
 
 Debe aparecerle la siguiente pantalla en el navegador:

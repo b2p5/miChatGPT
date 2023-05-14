@@ -1,12 +1,26 @@
 from flask import Flask, render_template,request, render_template_string, make_response
 import openai
 import os
-import  markdown
-from dotenv import load_dotenv, find_dotenv
+import  markdown2
+#from dotenv import load_dotenv, find_dotenv
 
 # Lee local .env 
-_ = load_dotenv(find_dotenv()) 
-openai.api_key  = os.getenv('OPENAI_API_KEY')
+#_ = load_dotenv(find_dotenv()) 
+openai.api_key  = "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"
+
+
+# Abrir el archivo de miContexto y leerlo
+miContexto = ''
+try:
+    with open('miContexto.txt', encoding='utf-8') as file:
+        miContexto = file.read()
+except FileNotFoundError:
+    print('Error: El archivo miContexto.txt no se encuentra en el sistema de archivos.' )
+    exit
+#Añadimos miContexto al rol de sistema
+context     = []
+context     = [ {'role':'system', 'content': miContexto  } ]
+conversations   = [] 
 
 app = Flask(__name__)
 
@@ -26,7 +40,7 @@ def home():
         answer = (( get_completion_from_messages(context)))
 
         #Pasar respuesta Markdown a HTML
-        answer_md = (markdown.markdown( answer ))
+        answer_md = (markdown2.markdown( answer ))
         #print (answer_md)
 
         context.append({'role':'assistant', 'content': f"{answer_md}" })
@@ -111,4 +125,4 @@ if __name__ == '__main__':
     
     conversations   = []  
     
-    app.run( port=5559)
+    app.run( )
