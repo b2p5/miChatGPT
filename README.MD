@@ -9,7 +9,7 @@ Para conseguir esto es necesario que modifique el fichero **miContexto.txt** apo
 que quiera tratar, dicha información servirá para decirle a ChatGPT cual es el roll de su sistema ( cual es el foco
 de su conocimiento ).
 \
-\
+
 ### Instalación
 
 * Descargue el programa
@@ -35,7 +35,7 @@ Debe aparecerle la siguiente pantalla en el navegador:
 
 ![Pantalla principal de miChatGPT](https://github.com/b2p5/miChatGPT/blob/master/static/images/PantallaChatAgramDAO.png)
 \
-\
+
 ### Funcionamiento
 
 Este Bot, con cada pregunta, en primer lugar tratará de resolverla mediante el contexto que le damos en el fichero
@@ -47,7 +47,7 @@ Los cuatro iconos que aparecen debajo de la línea de texto proporcionan funcion
 * Ir a la Web de Agram Project
 * Descargar todas las consultas que se han realizado.   
 \
-\
+
 ### Adaptación
 
 Para adaptar este programa a sus necesidades, ha de cambiar el contenido del fichero **miContexto.txt** adaptando
