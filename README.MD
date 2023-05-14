@@ -43,7 +43,7 @@ Este Bot, con cada pregunta, en primer lugar tratará de resolverla mediante el 
 Los cuatro iconos que aparecen debajo de la línea de texto proporcionan funcionalidades particulares para AgramDAO:
 * Diagrama de bloques de AgramDAO
 * Vídeo sobre el funcionamiento deAgramDAO
-* Ir a la Web de AgramDAO
+* Ir a la Web de Agram Project
 * Descargar todas las consultas que se han realizado.   
 
 
