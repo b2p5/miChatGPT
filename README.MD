@@ -8,7 +8,7 @@ Mediante este programa podrá generar un ChatBot que conteste a las preguntas so
 Para conseguir esto es necesario que modifique el fichero **miContexto.txt** aportando información sobre el tema 
 que quiera tratar, dicha información servirá para decirle a ChatGPT cual es el roll de su sistema ( cual es el foco
 de su conocimiento ).
-\
+ 
 
 ### Instalación
 
@@ -34,7 +34,7 @@ de su conocimiento ).
 Debe aparecerle la siguiente pantalla en el navegador:
 
 ![Pantalla principal de miChatGPT](https://github.com/b2p5/miChatGPT/blob/master/static/images/PantallaChatAgramDAO.png)
-\
+ 
 
 ### Funcionamiento
 
@@ -46,7 +46,7 @@ Los cuatro iconos que aparecen debajo de la línea de texto proporcionan funcion
 * Vídeo sobre el funcionamiento deAgramDAO
 * Ir a la Web de Agram Project
 * Descargar todas las consultas que se han realizado.   
-\
+ 
 
 ### Adaptación
 
