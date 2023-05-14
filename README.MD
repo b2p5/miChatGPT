@@ -47,3 +47,8 @@ Los cuatro iconos que aparecen debajo de la línea de texto proporcionan funcion
 * Descargar todas las consultas que se han realizado.   
 
 
+### Adaptación
+
+Para adaptar este programa a sus necesidades, ha de cambiar el contenido del fichero **miContexto.txt** adaptando
+el mismo al tema que desea tratar. A partir de ese momento le puede hacer preguntas a ChatGPT sobre el asunto que ha 
+documentado en **miContexto.txt**
